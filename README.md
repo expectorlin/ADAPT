@@ -17,7 +17,9 @@ The environment installation of ADAPT follows that in [Recurrent-VLN-BERT](https
 Please follow the instructions below to prepare the data in directories:
 <br>
 * MP3D navigability graphs: ```connectivity```
-
+  * Download the [connectivity maps](https://github.com/peteanderson80/Matterport3DSimulator/tree/master/connectivity).
+* MP3D image features: ```img_features```
+  * Download the [Scene features](https://www.dropbox.com/s/85tpa6tc3enl5ud/ResNet-152-places365.zip?dl=1) (ResNet-152-Places365).
 ### Trained Network Weights
 
 ## R2R Navigation
