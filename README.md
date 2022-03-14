@@ -16,3 +16,11 @@ The environment installation of ADAPT follows that in [Recurrent-VLN-BERT](https
 ### Data Preparation
 Please follow the instructions below to prepare the data in directories:
 
+### Trained Network Weights
+
+## R2R Navigation
+
+### Reproduce Testing Results
+### Training
+
+## Citation
