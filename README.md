@@ -15,7 +15,8 @@ The environment installation of ADAPT follows that in [Recurrent-VLN-BERT](https
 
 ### Data Preparation
 Please follow the instructions below to prepare the data in directories:
-<br> * MP3D navigability graphs: ```connectivity```
+<br>
+* MP3D navigability graphs: ```connectivity```
 
 ### Trained Network Weights
 
