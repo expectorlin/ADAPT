@@ -21,9 +21,11 @@ Please follow the instructions below to prepare the data in directories:
 * MP3D image features: ```img_features```
   * Download the [Scene features](https://www.dropbox.com/s/85tpa6tc3enl5ud/ResNet-152-places365.zip?dl=1) (ResNet-152-Places365).
 * R2R data added action prompts: ```data```
-  * Download the R2R data.
-* Augmentation data added action prompts: ```data/prevalent```
+  * Download the [R2R data](https://drive.google.com/file/d/1dvWONxBDfNiG420Ggttjkje5Qu0pFJ_d/view?usp=sharing).
+* Augmentation data added action prompts: ```data```
   * Download the augmentation data.
+* text sub-prompt feature: ```data```
+  * Download the [text sub-prompt feature](https://drive.google.com/file/d/127XonQJ2hqriljfSm8J-RLhV_PYQYWJh/view?usp=sharing).
 
 ## R2R Navigation
 
