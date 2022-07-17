@@ -23,7 +23,7 @@ Please follow the instructions below to prepare the data in directories:
 * R2R data added action prompts: ```data```
   * Download the [R2R data](https://drive.google.com/file/d/1dvWONxBDfNiG420Ggttjkje5Qu0pFJ_d/view?usp=sharing).
 * Augmentation data added action prompts: ```data```
-  * Download the augmentation data.
+  * Download the [augmentation data](https://drive.google.com/file/d/1C9Ckhr6XASDveGvnRvZ3oIzqTeU43JAq/view?usp=sharing).
 * text sub-prompt feature: ```data```
   * Download the [text sub-prompt feature](https://drive.google.com/file/d/127XonQJ2hqriljfSm8J-RLhV_PYQYWJh/view?usp=sharing).
 
